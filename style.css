@@ -21,7 +21,7 @@ body {
 
 h2 {
     text-align: center;
-    font-size: 1.5em;
+    font-size: 2.0em;
     color: #e94d58;
     margin: 15px 0;
 }
@@ -53,4 +53,153 @@ button:nth-child(2) {
     margin-right: -200px;
     background: white;
     color: #e94d58;
+}
+/* New GIF style */
+.small-gif {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+/* New GIF style */
+.small-gif1 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif2 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif3 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif4 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif5 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif6 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif7 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif8 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif9 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif10 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif11 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif12 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif13 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif14 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif15 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif16 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif17 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif18 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif19 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: auto;
+}
+.small-gif20 {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 500px;
+    height: auto;
 }
